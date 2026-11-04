@@ -1,0 +1,12 @@
+{
+  "name": "claude-skill-picker",
+  "owner": { "name": "Hussam Shopary" },
+  "description": "Skill Picker: a Claude Code side pane to search, pick and insert skills per project.",
+  "plugins": [
+    {
+      "name": "skill-picker",
+      "source": "./",
+      "description": "A side pane in every conversation to search your skills, pick the ones a project needs, and write them into the prompt box."
+    }
+  ]
+}

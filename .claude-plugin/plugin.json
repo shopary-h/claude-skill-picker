@@ -1,0 +1,9 @@
+{
+  "name": "skill-picker",
+  "version": "0.1.0",
+  "description": "A side pane in every conversation to search your skills, pick the ones a project needs, and write them into the prompt box",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Hussam Shopary"
+  }
+}
